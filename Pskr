@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<title> sai kumar </title> 
+
+</head>
+<style>
+.purple-color {
+color: #8845f4;
+}
+ body{ 
+  font-family="sans-serif";
+  color:red;
+  line-height:25px;
+  }
+.half-width{
+ width:50%;
+ float:"left";}
+ .side-img{
+ width:50%;
+ padding-left:25%; }
+ .primary-button{
+ color:red;
+ background-color:blue;
+ padding:12px 10px 15px 25px;
+ border-radius:25px;
+ text-decoration: none; }
+ h1{ font-size= 2.5em; }
+ </style>
+ <body>
+ 
+<div class="half-width" >
+<h1> welcome to <span class="purple-color" > saikumar's </span>  website </h1>
+<h3> now you are in my own website created by myself </h3>
+<p> i started to learn html in this lockdown. as a part of it i am creating a portfolio website for fun. hope this wont irritate you.  </p>
+<a class="primary-button" href="https://youtu.be/m4Z034vkHXc" > like it </a>
+</div>
+<div>
+<img class="side-img" src="images/profile.jpg" alt="" > 
+</body>
+</html>
